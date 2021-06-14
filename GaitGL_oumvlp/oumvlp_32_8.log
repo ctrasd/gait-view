@@ -1,0 +1,82 @@
+nohup: ignoring input
+  0%|          | 0/10307 [00:00<?, ?it/s]  1%|          | 110/10307 [00:00<00:09, 1092.45it/s]  2%|▏         | 221/10307 [00:00<00:09, 1094.28it/s]  3%|▎         | 332/10307 [00:00<00:09, 1096.18it/s]  4%|▍         | 446/10307 [00:00<00:08, 1108.04it/s]  5%|▌         | 559/10307 [00:00<00:08, 1112.47it/s]  6%|▋         | 668/10307 [00:00<00:08, 1103.63it/s]  8%|▊         | 778/10307 [00:00<00:08, 1102.05it/s]  9%|▊         | 891/10307 [00:00<00:08, 1109.23it/s] 10%|▉         | 1004/10307 [00:00<00:08, 1112.92it/s] 11%|█         | 1114/10307 [00:01<00:08, 1108.10it/s] 12%|█▏        | 1223/10307 [00:01<00:08, 1101.65it/s] 13%|█▎        | 1335/10307 [00:01<00:08, 1104.49it/s] 14%|█▍        | 1444/10307 [00:01<00:08, 1098.80it/s] 15%|█▌        | 1554/10307 [00:01<00:07, 1096.43it/s] 16%|█▋        | 1675/10307 [00:01<00:07, 1126.73it/s] 17%|█▋        | 1797/10307 [00:01<00:07, 1150.51it/s] 19%|█▊        | 1912/10307 [00:01<00:07, 1127.27it/s] 20%|█▉        | 2025/10307 [00:01<00:07, 1121.58it/s] 21%|██        | 2138/10307 [00:01<00:07, 1117.46it/s] 22%|██▏       | 2268/10307 [00:02<00:06, 1165.43it/s] 23%|██▎       | 2392/10307 [00:02<00:06, 1184.07it/s] 24%|██▍       | 2511/10307 [00:02<00:06, 1133.33it/s] 25%|██▌       | 2626/10307 [00:02<00:06, 1113.12it/s] 27%|██▋       | 2738/10307 [00:02<00:06, 1114.33it/s] 28%|██▊       | 2850/10307 [00:02<00:06, 1096.32it/s] 29%|██▊       | 2961/10307 [00:02<00:06, 1090.16it/s] 30%|██▉       | 3071/10307 [00:02<00:06, 1092.98it/s] 31%|███       | 3181/10307 [00:02<00:09, 773.81it/s]  32%|███▏      | 3290/10307 [00:03<00:08, 845.94it/s] 33%|███▎      | 3399/10307 [00:03<00:07, 906.74it/s] 34%|███▍      | 3513/10307 [00:03<00:07, 965.32it/s] 35%|███▌      | 3622/10307 [00:03<00:06, 998.68it/s] 36%|███▌      | 3732/10307 [00:03<00:06, 1025.86it/s] 37%|███▋      | 3842/10307 [00:03<00:06, 1044.67it/s] 38%|███▊      | 3950/10307 [00:03<00:06, 1040.70it/s] 39%|███▉      | 4060/10307 [00:03<00:05, 1057.70it/s] 40%|████      | 4168/10307 [00:03<00:05, 1064.27it/s] 42%|████▏     | 4279/10307 [00:04<00:05, 1075.14it/s] 43%|████▎     | 4396/10307 [00:04<00:05, 1101.16it/s] 44%|████▍     | 4521/10307 [00:04<00:05, 1141.51it/s] 45%|████▌     | 4665/10307 [00:04<00:04, 1216.71it/s] 46%|████▋     | 4789/10307 [00:04<00:04, 1181.52it/s] 48%|████▊     | 4909/10307 [00:04<00:04, 1144.14it/s] 49%|████▉     | 5025/10307 [00:04<00:04, 1126.87it/s] 50%|████▉     | 5143/10307 [00:04<00:04, 1140.50it/s] 51%|█████     | 5258/10307 [00:04<00:04, 1136.78it/s] 52%|█████▏    | 5379/10307 [00:04<00:04, 1155.96it/s] 53%|█████▎    | 5497/10307 [00:05<00:04, 1161.58it/s] 54%|█████▍    | 5614/10307 [00:05<00:04, 1160.55it/s] 56%|█████▌    | 5731/10307 [00:05<00:03, 1154.63it/s] 57%|█████▋    | 5847/10307 [00:05<00:03, 1152.98it/s] 58%|█████▊    | 5963/10307 [00:05<00:03, 1140.05it/s] 59%|█████▉    | 6078/10307 [00:05<00:03, 1137.75it/s] 60%|██████    | 6194/10307 [00:05<00:03, 1143.25it/s] 61%|██████    | 6309/10307 [00:05<00:03, 1130.41it/s] 62%|██████▏   | 6425/10307 [00:05<00:03, 1139.02it/s] 63%|██████▎   | 6543/10307 [00:05<00:03, 1149.77it/s] 65%|██████▍   | 6663/10307 [00:06<00:03, 1161.49it/s] 66%|██████▌   | 6780/10307 [00:06<00:04, 879.09it/s]  67%|██████▋   | 6892/10307 [00:06<00:03, 938.84it/s] 68%|██████▊   | 7002/10307 [00:06<00:03, 979.68it/s] 69%|██████▉   | 7113/10307 [00:06<00:03, 1013.65it/s] 70%|███████   | 7230/10307 [00:06<00:02, 1055.72it/s] 71%|███████▏  | 7344/10307 [00:06<00:02, 1077.04it/s] 72%|███████▏  | 7463/10307 [00:06<00:02, 1106.72it/s] 74%|███████▎  | 7592/10307 [00:06<00:02, 1155.92it/s] 75%|███████▍  | 7710/10307 [00:07<00:02, 1142.39it/s] 76%|███████▌  | 7826/10307 [00:07<00:02, 1146.13it/s] 77%|███████▋  | 7942/10307 [00:07<00:02, 1135.38it/s] 78%|███████▊  | 8057/10307 [00:07<00:01, 1132.98it/s] 79%|███████▉  | 8171/10307 [00:07<00:01, 1131.94it/s] 80%|████████  | 8291/10307 [00:07<00:01, 1148.92it/s] 82%|████████▏ | 8407/10307 [00:07<00:01, 1128.40it/s] 83%|████████▎ | 8521/10307 [00:07<00:01, 1119.37it/s] 84%|████████▍ | 8634/10307 [00:07<00:01, 1113.18it/s] 85%|████████▍ | 8746/10307 [00:07<00:01, 1110.55it/s] 86%|████████▌ | 8858/10307 [00:08<00:01, 1112.99it/s] 87%|████████▋ | 8980/10307 [00:08<00:01, 1141.07it/s] 88%|████████▊ | 9095/10307 [00:08<00:01, 1130.02it/s] 89%|████████▉ | 9209/10307 [00:08<00:00, 1124.77it/s] 90%|█████████ | 9322/10307 [00:08<00:00, 1116.10it/s] 92%|█████████▏| 9434/10307 [00:08<00:00, 1112.62it/s] 93%|█████████▎| 9546/10307 [00:08<00:00, 1111.29it/s] 94%|█████████▍| 9668/10307 [00:08<00:00, 1141.09it/s] 95%|█████████▍| 9783/10307 [00:08<00:00, 1124.61it/s] 96%|█████████▌| 9896/10307 [00:09<00:00, 1122.27it/s] 97%|█████████▋| 10015/10307 [00:09<00:00, 1139.66it/s] 98%|█████████▊| 10138/10307 [00:09<00:00, 1165.19it/s]100%|█████████▉| 10264/10307 [00:09<00:00, 1189.16it/s]100%|██████████| 10307/10307 [00:09<00:00, 1102.85it/s]Initialzing...
+Initializing data source...
+lentestdata-- 5153 5154
+len train,test-- 133531 133857
+Data initialization complete.
+Initializing model...
+5153
+2 (32, 8)
+DataParallel(
+  (module): C3D_VGG_angle(
+    (conv2dlayer1a): BasicConv3d(
+      (conv1): Conv3d(1, 32, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=(1, 1, 1), bias=False)
+    )
+    (pool2d1): LocaltemporalAG(
+      (conv1): Conv3d(32, 32, kernel_size=(3, 1, 1), stride=(3, 1, 1), bias=False)
+    )
+    (conv2dlayer2a): BasicConv3d_p(
+      (convdl): Conv3d(32, 64, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=(1, 1, 1), bias=False)
+      (convdg): Conv3d(32, 64, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=(1, 1, 1), bias=False)
+    )
+    (pool2d2): MaxPool3d(kernel_size=(1, 2, 2), stride=(1, 2, 2), padding=0, dilation=1, ceil_mode=False)
+    (conv2dlayer25a_3d): BasicConv3d_p(
+      (convdl): Conv3d(64, 128, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=(1, 1, 1), bias=False)
+      (convdg): Conv3d(64, 128, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=(1, 1, 1), bias=False)
+    )
+    (conv2dlayer25b_3d): BasicConv3d_p(
+      (convdl): Conv3d(128, 128, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=(1, 1, 1), bias=False)
+      (convdg): Conv3d(128, 128, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=(1, 1, 1), bias=False)
+    )
+    (conv2dlayer3a_3d): BasicConv3d_p(
+      (convdl): Conv3d(128, 256, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=(1, 1, 1), bias=False)
+      (convdg): Conv3d(128, 256, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=(1, 1, 1), bias=False)
+    )
+    (conv2dlayer3b_3d): BasicConv3d_p(
+      (convdl): Conv3d(256, 256, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=(1, 1, 1), bias=False)
+      (convdg): Conv3d(256, 256, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=(1, 1, 1), bias=False)
+    )
+    (fpb3d): Temporal()
+    (Gem): GeM(p=6.5000, eps=1e-06)
+    (avgpool): GeM_1(p=1.0000, eps=1e-06)
+    (cls): Linear(in_features=256, out_features=14, bias=True)
+    (trans_view): ParameterList(  (0): Parameter containing: [torch.cuda.FloatTensor of size 14x64x256x256 (GPU 0)])
+    (fc_bin): ParameterList(  (0): Parameter containing: [torch.cuda.FloatTensor of size 64x256x256 (GPU 0)])
+    (relu): ReLU()
+  )
+)
+Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.0001
+    weight_decay: 0
+)
+Model initialization complete.
+Training START
+-len(train_loader)- 133531
+iter 100:, hard_loss_metric=0.42352432, full_loss_metric=0.21192242, full_loss_num=442573.43750000, mean_dist=0.15166903, lr=0.000100, hard or full='full', correct=0.154
+iter 200:, hard_loss_metric=0.55653685, full_loss_metric=0.20781386, full_loss_num=372815.56250000, mean_dist=0.30339700, lr=0.000100, hard or full='full', correct=0.347
+iter 300:, hard_loss_metric=0.58541381, full_loss_metric=0.20917687, full_loss_num=322076.28125000, mean_dist=0.40824988, lr=0.000100, hard or full='full', correct=0.524
+iter 400:, hard_loss_metric=0.61392981, full_loss_metric=0.21531616, full_loss_num=262554.75000000, mean_dist=0.55231726, lr=0.000100, hard or full='full', correct=0.682
+iter 500:, hard_loss_metric=0.63593841, full_loss_metric=0.21941383, full_loss_num=199233.71875000, mean_dist=0.71826613, lr=0.000100, hard or full='full', correct=0.775
+iter 600:, hard_loss_metric=0.65142030, full_loss_metric=0.22353064, full_loss_num=167752.62500000, mean_dist=0.83487189, lr=0.000100, hard or full='full', correct=0.840
+iter 700:, hard_loss_metric=0.65130758, full_loss_metric=0.22298901, full_loss_num=143325.12500000, mean_dist=0.93961394, lr=0.000100, hard or full='full', correct=0.870
+iter 800:, hard_loss_metric=0.64821470, full_loss_metric=0.22229676, full_loss_num=130513.21093750, mean_dist=0.99721491, lr=0.000100, hard or full='full', correct=0.892
+iter 900:, hard_loss_metric=0.65174222, full_loss_metric=0.22320379, full_loss_num=118954.50000000, mean_dist=1.07424080, lr=0.000100, hard or full='full', correct=0.918
+1:53:31.489766
+iter 1000:, hard_loss_metric=0.64426744, full_loss_metric=0.22180346, full_loss_num=109217.34375000, mean_dist=1.12764275, lr=0.000100, hard or full='full', correct=0.932
+iter 1100:, hard_loss_metric=0.64300233, full_loss_metric=0.22164991, full_loss_num=100495.95312500, mean_dist=1.19479036, lr=0.000100, hard or full='full', correct=0.943
+iter 1200:, hard_loss_metric=0.64447218, full_loss_metric=0.22343670, full_loss_num=96027.17187500, mean_dist=1.23985851, lr=0.000100, hard or full='full', correct=0.947
+iter 1300:, hard_loss_metric=0.63457477, full_loss_metric=0.22163159, full_loss_num=90793.09375000, mean_dist=1.26749420, lr=0.000100, hard or full='full', correct=0.954
+iter 1400:, hard_loss_metric=0.63745117, full_loss_metric=0.22146656, full_loss_num=87290.49218750, mean_dist=1.31446147, lr=0.000100, hard or full='full', correct=0.957
+iter 1500:, hard_loss_metric=0.63477635, full_loss_metric=0.22160469, full_loss_num=81688.10937500, mean_dist=1.36731863, lr=0.000100, hard or full='full', correct=0.957
+iter 1600:, hard_loss_metric=0.62634015, full_loss_metric=0.22111103, full_loss_num=77735.42968750, mean_dist=1.38746607, lr=0.000100, hard or full='full', correct=0.962
+iter 1700:, hard_loss_metric=0.62203312, full_loss_metric=0.22085182, full_loss_num=75714.46093750, mean_dist=1.40957117, lr=0.000100, hard or full='full', correct=0.966
+iter 1800:, hard_loss_metric=0.62042081, full_loss_metric=0.21949238, full_loss_num=74036.14843750, mean_dist=1.43026042, lr=0.000100, hard or full='full', correct=0.965
+iter 1900:, hard_loss_metric=0.61824632, full_loss_metric=0.22084868, full_loss_num=67991.09375000, mean_dist=1.50104046, lr=0.000100, hard or full='full', correct=0.972
+1:50:22.870473
+iter 2000:, hard_loss_metric=0.61153346, full_loss_metric=0.21986398, full_loss_num=68711.43750000, mean_dist=1.49332821, lr=0.000100, hard or full='full', correct=0.972
+iter 2100:, hard_loss_metric=0.60905534, full_loss_metric=0.21830612, full_loss_num=64713.24609375, mean_dist=1.54098618, lr=0.000100, hard or full='full', correct=0.970
+iter 2200:, hard_loss_metric=0.60610348, full_loss_metric=0.21893662, full_loss_num=63359.65625000, mean_dist=1.56208050, lr=0.000100, hard or full='full', correct=0.971
