@@ -2,7 +2,8 @@
 
 
 The codes for the paper "Silhouette-based View-embeddings for Gait Recognition Under Multiple Views".
-The base code are forked from [gaitset](https://github.com/AbnerHqC/GaitSet) and [gaitGL](https://github.com/bb12346/GaitGL) 
+The base code are forked from [gaitset](https://github.com/AbnerHqC/GaitSet) and [gaitGL](https://github.com/bb12346/GaitGL).
+
 ![network](./img/network.png)
 
 ## Main Results
